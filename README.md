@@ -109,7 +109,7 @@ Dense(1)  ← predicted RUL (normalised)
 ### Option B — Local
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Predictive-Maintenance-Model-for-Aircraft-Engines.git
+git clone https://github.com/Abhishek2405079/Predictive-Maintenance-Model-for-Aircraft-Engines.git
 cd Predictive-Maintenance-Model-for-Aircraft-Engines
 pip install -r requirements.txt
 ```
